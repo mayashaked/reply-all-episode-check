@@ -9,8 +9,8 @@ import urllib.request
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
 
-FROM = 'mayaromyshaked@gmail.com'
-TO = 'mayaromyshaked@gmail.com'
+FROM = # INSERT FROM EMAIL ADDRESS HERE
+TO = # INSERT TO EMAIL ADDRESS HERE
 SUBJECT = "Is there a new Reply All episode this week?"
 
 def main():
