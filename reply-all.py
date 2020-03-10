@@ -19,7 +19,7 @@ def main():
 
 def get_args():
 
-    with open(os.path.join(sys.path[0], 'hi.txt')) as json_file:
+    with open(os.path.join(sys.path[0], 'configs.txt')) as json_file:
         args = json.load(json_file)
 
     return(args)
