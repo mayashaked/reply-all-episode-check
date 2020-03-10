@@ -1,0 +1,4 @@
+{"sender" : <YOUR_GMAIL_ADDRESS>, 
+"password" : <YOUR_GMAIL_PASSWORD>, 
+"receivers" : [<YOUR_GMAIL_ADDRESS>, <FRIEND'S_EMAIL_ADDRESS_1>, <FRIEND'S_EMAIL_ADDRESS_2]
+}
